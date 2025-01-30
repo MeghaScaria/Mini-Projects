@@ -1,0 +1,1 @@
+button1 = Button(root, text="Click to Check 🌸", font=("Comic Sans MS", 18, "bold"), bg="#ff80bf", fg="white", height=1, width=18, command=one, relief="raised")
